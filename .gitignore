@@ -1,1 +1,8 @@
 .env
+utils/
+*.txt
+*.jpeg
+*.csv
+*.zip
+*.json
+backup/
